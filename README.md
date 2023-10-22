@@ -1,3 +1,1 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+A user-friendly web application built with React.js, Node.js, and CSS.

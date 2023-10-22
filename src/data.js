@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    name: 'Evisa Cankaj',
+    name: 'Evisa C',
     age: 27,
     image:
       'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/99/99f7f5c3f1f6fb41e15bc3afccddee0437f51549.jpg',
